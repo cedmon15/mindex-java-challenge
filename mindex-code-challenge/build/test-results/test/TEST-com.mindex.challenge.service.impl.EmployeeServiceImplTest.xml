@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mindex.challenge.service.impl.EmployeeServiceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-28T02:15:14" hostname="GEOFORCE-4090" time="0.029">
+  <properties/>
+  <testcase name="testGetReportingStructure" classname="com.mindex.challenge.service.impl.EmployeeServiceImplTest" time="0.026"/>
+  <testcase name="testGetReportingStructure_BrokenHierarchy" classname="com.mindex.challenge.service.impl.EmployeeServiceImplTest" time="0.002"/>
+  <testcase name="testGetReportingStructure_InvalidEmployeeId" classname="com.mindex.challenge.service.impl.EmployeeServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

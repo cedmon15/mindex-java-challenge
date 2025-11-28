@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mindex.challenge.service.impl.CompensationServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-28T02:15:14" hostname="GEOFORCE-4090" time="0.091">
+  <properties/>
+  <testcase name="testRead_NotFound" classname="com.mindex.challenge.service.impl.CompensationServiceImplTest" time="0.087"/>
+  <testcase name="testCreateRead" classname="com.mindex.challenge.service.impl.CompensationServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
