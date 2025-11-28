@@ -1,7 +1,3 @@
-# Mindex Coding Challenge Solution
-
-I implemented the **ReportingStructure** and **Compensation** features as requested.
-
 ## 1. Reporting Structure (Task 1)
 I added the ability to calculate the total number of reports for an employee.
 
