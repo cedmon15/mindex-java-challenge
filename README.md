@@ -3,7 +3,7 @@
 I implemented the **ReportingStructure** and **Compensation** features as requested.
 
 ## 1. Reporting Structure (Task 1)
-I added the ability to calculate the total number of reports for an employee on the fly.
+I added the ability to calculate the total number of reports for an employee.
 
 * **`data/ReportingStructure.java`**: New class to hold the output (employee + report count).
 * **`controller/ReportingStructureController.java`**: New endpoint `GET /reportingStructure/{id}`.
